@@ -1,0 +1,13 @@
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\bin\Release\lqsclient.exe
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\bin\Release\lqsclient.pdb
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\bin\Release\lqsclient.xml
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\ResolveAssemblyReference.cache
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\lqsclient.FrmMain.resources
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\lqsclient.Resources.resources
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\lqsclient.vbproj.GenerateResource.Cache
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\lqsclient.exe
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\lqsclient.xml
+E:\Lqs\杂项2012\VBnetSocket框架\lqsclient\lqsclient\obj\Release\lqsclient.pdb
+E:\Lqs\1.软件工程\ForTaobao\VBnetSocket\lqsclient\lqsclient\obj\Release\lqsclient.exe
+E:\Lqs\1.软件工程\ForTaobao\VBnetSocket\lqsclient\lqsclient\obj\Release\lqsclient.xml
+E:\Lqs\1.软件工程\ForTaobao\VBnetSocket\lqsclient\lqsclient\obj\Release\lqsclient.pdb
